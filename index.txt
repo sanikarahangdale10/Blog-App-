@@ -62,7 +62,7 @@
     <div class="posts-container">
 
         <div class="post">
-            <img src="images/blog-1.jpg" alt="" class="image">
+            <img src="blog-1.jpg" alt="" class="image">
             <div class="date">
                 <i class="far fa-clock"></i>
                 <span>1st may, 2021</span>
